@@ -1,33 +1,37 @@
-## Ignews Notícias sobre o mundo React.
+# **Ignews Notícias sobre o mundo React.**
 
-Ignews é uma aplicação front-end desenvolvida em NextJS com TypeScript durante 
-o módulo **Chapter III** do Ignite, bootcamp intensivo da Rocketseat, na trilha de ReactJS.
+Ignews é uma aplicação front-end desenvolvida em NextJS com TypeScript durante
 
-### Objetivo Acadêmico
+o módulo ****Chapter III**** do Ignite, bootcamp intensivo da Rocketseat, na trilha de ReactJS.
 
-O objetivo da aplicação é apenas obter conhecimento à medida que avançamos no bootcamp.
-A aplicação foi desenvolvida durante as aulas do bootcamp e agrega conhecimentos diversos,
-dentre eles os fundamentos do NextJS, estruturação de um back-end dentro do front-end e o
-front-end JAMStack. 
+### **Objetivo Acadêmico**
 
-#### Conhecimentos agregados
+O objetivo da aplicação é apenas obter conhecimento à medida que avançamos no bootcamp.
 
-[X] - Paginas estáticas no NextJS.
-[X] - Geração de sites estáticos dinâmicos.
-[X] - Revalidação de páginas estáticas para atualização de conteúdo.
-[X] - Server Side Rendering.
-[X] - Integração de CMS externos.
-[X] - SASS.
-[X] - CSS Modules.
-[X] - TypeScript.
-[X] - Prismic CMS.
-[X] - FaunaDB para banco de dados.
-[X] - Stripe integração de pagamentos.
+A aplicação foi desenvolvida durante as aulas do bootcamp e agrega conhecimentos diversos,
 
-### Objetivo da aplicação
+dentre eles os fundamentos do NextJS, estruturação de um back-end dentro do front-end e o
 
-Disponibilização de conteúdo em formato de blog para pessoas assinantes do serviço que o ignews oferece.
+front-end JAMStack.
 
-##### Funcionalidades
+### C**onhecimentos agregados**
 
-No ignews temos as funcionalidades de login, autenticação, assinatura e pagamento de serviços, disponibilização de conteúdo, preview de conteúdo para não assinantes, logout etc.
+- [x]  Páginas estáticas no NextJS.
+- [x]  Geração de sites estáticos dinâmicos.
+- [x]  Revalidação de páginas estáticas para atualização de conteúdo.
+- [x]  Server Side Rendering.
+- [x]  Integração de CMS externos.
+- [x]  SASS.
+- [x]  CSS Modules.
+- [x]  TypeScript.
+- [x]  Prismic CMS.
+- [x]  FaunaDB para banco de dados.
+- [x]  Stripe integração de pagamentos.
+
+### **Objetivo da aplicação**
+
+Disponibilização de conteúdo em formato de blog para pessoas assinantes do serviço que o ignews oferece.
+
+### **Funcionalidades**
+
+No ignews temos as funcionalidades de login, autenticação, assinatura e pagamento de serviços, disponibilização de conteúdo, preview de conteúdo para não assinantes, logout etc.
