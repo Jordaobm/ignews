@@ -1,20 +1,14 @@
 # **Ignews Notícias sobre o mundo React.**
 
-Ignews é uma aplicação front-end desenvolvida em NextJS com TypeScript durante
+<img src="https://github.com/Jordaobm/ignews/blob/main/docs/assets/1.PNG"/>
 
-o módulo ****Chapter III**** do Ignite, bootcamp intensivo da Rocketseat, na trilha de ReactJS.
+Ignews é uma aplicação front-end desenvolvida em NextJS com TypeScript durante o módulo ****Chapter III**** do Ignite, bootcamp intensivo da Rocketseat, na trilha de ReactJS.
 
 ### **Objetivo Acadêmico**
 
-O objetivo da aplicação é apenas obter conhecimento à medida que avançamos no bootcamp.
+O objetivo da aplicação é apenas obter conhecimento à medida que avançamos no bootcamp. A aplicação foi desenvolvida durante as aulas do bootcamp e agrega conhecimentos diversos, dentre eles os fundamentos do NextJS, estruturação de um back-end dentro do front-end e o front-end JAMStack.
 
-A aplicação foi desenvolvida durante as aulas do bootcamp e agrega conhecimentos diversos,
-
-dentre eles os fundamentos do NextJS, estruturação de um back-end dentro do front-end e o
-
-front-end JAMStack.
-
-### C**onhecimentos agregados**
+### **Conhecimentos agregados**
 
 - [x]  Páginas estáticas no NextJS.
 - [x]  Geração de sites estáticos dinâmicos.
@@ -28,10 +22,17 @@ front-end JAMStack.
 - [x]  FaunaDB para banco de dados.
 - [x]  Stripe integração de pagamentos.
 
+<img src="https://github.com/Jordaobm/ignews/blob/main/docs/assets/2.PNG"/>
+
 ### **Objetivo da aplicação**
 
 Disponibilização de conteúdo em formato de blog para pessoas assinantes do serviço que o ignews oferece.
 
+<img src="https://github.com/Jordaobm/ignews/blob/main/docs/assets/4.PNG"/>
+
 ### **Funcionalidades**
 
 No ignews temos as funcionalidades de login, autenticação, assinatura e pagamento de serviços, disponibilização de conteúdo, preview de conteúdo para não assinantes, logout etc.
+
+<img src="https://github.com/Jordaobm/ignews/blob/main/docs/assets/3.PNG"/>
+<img src="https://github.com/Jordaobm/ignews/blob/main/docs/assets/5.PNG"/>
