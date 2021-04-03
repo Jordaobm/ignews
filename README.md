@@ -1,34 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Ignews Notícias sobre o mundo React.
 
-## Getting Started
+Ignews é uma aplicação front-end desenvolvida em NextJS com TypeScript durante 
+o módulo **Chapter III** do Ignite, bootcamp intensivo da Rocketseat, na trilha de ReactJS.
 
-First, run the development server:
+### Objetivo Acadêmico
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+O objetivo da aplicação é apenas obter conhecimento à medida que avançamos no bootcamp.
+A aplicação foi desenvolvida durante as aulas do bootcamp e agrega conhecimentos diversos,
+dentre eles os fundamentos do NextJS, estruturação de um back-end dentro do front-end e o
+front-end JAMStack. 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+#### Conhecimentos agregados
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+[X] - Paginas estáticas no NextJS.
+[X] - Geração de sites estáticos dinâmicos.
+[X] - Revalidação de páginas estáticas para atualização de conteúdo.
+[X] - Server Side Rendering.
+[X] - Integração de CMS externos.
+[X] - SASS.
+[X] - CSS Modules.
+[X] - TypeScript.
+[X] - Prismic CMS.
+[X] - FaunaDB para banco de dados.
+[X] - Stripe integração de pagamentos.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Objetivo da aplicação
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Disponibilização de conteúdo em formato de blog para pessoas assinantes do serviço que o ignews oferece.
 
-## Learn More
+##### Funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+No ignews temos as funcionalidades de login, autenticação, assinatura e pagamento de serviços, disponibilização de conteúdo, preview de conteúdo para não assinantes, logout etc.
